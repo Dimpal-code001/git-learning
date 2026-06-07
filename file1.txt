@@ -3,3 +3,5 @@ this is first file
 this is another line for this file
 
 this is the third line of this file
+
+now the real test
